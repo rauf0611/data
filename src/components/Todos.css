@@ -1,0 +1,12 @@
+ul li{
+    /* display: none; */
+    list-style-type: none;
+    border-bottom: 1px solid mediumpurple;
+}
+span{
+    font-weight: bold;
+}
+ul{
+padding-inline-start: 0 !important;
+margin-top: 50px !important;
+}
